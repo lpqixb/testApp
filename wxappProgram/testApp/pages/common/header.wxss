@@ -1,0 +1,13 @@
+.header-qm{
+  position:absolute;
+  top:0px;
+  right:0px;
+  width:50rpx;
+  height:50rpx;
+  line-height:50rpx;
+  text-align:center;
+  background:#f0efeb;
+  color:#333;
+  font-size:24rpx;
+  z-index:100;
+}

@@ -1,0 +1,18 @@
+<include src="/pages/common/header.wxml"/>
+
+<view class="container">
+  <form bindsubmit="formSubmit">
+    <picker class="picker" name="picker" bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+      <!-- <view class="picker"> -->
+        {{array[index]}}
+      <!-- </view> -->
+    </picker>
+
+    <input class="input" name="input" type="text" placeholder="你的姓名" />
+    <button class="btn" formType="submit">打赏</button>
+  </form>
+
+
+</view>
+
+<include src="/pages/common/footer.wxml"/>

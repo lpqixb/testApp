@@ -1,0 +1,21 @@
+<import src="/template/showblock/index.wxml" />
+<template is="showblock" data="{{...showblock}}" />
+
+<import src="/template/authblock/index.wxml" />
+<template is="authblock" data="{{hasAuth:hasAuth}}" />
+
+<view class="footer-iconfoot">
+  <view class="menu-item">
+      <text class="img iconfont icon-zhuye" catchtap="bindAction" data-action="webview" data-url="https://www.eesaler.com"></text>
+  </view>
+  <view class="menu-item">
+      <text class="img iconfont icon-erweima1"  catchtap="bindAction" data-action="previewImage" data-src="https://eesaler.com/resource/mystyle/images/qrcode.jpg?v=1.3"></text>
+  </view>
+  <view class="menu-item">
+      <button open-type='contact' class="img iconfont icon-kefu"></button>
+  </view>
+  <view class="menu-item">
+      <text class="img iconfont icon-76"  catchtap="bindAction" data-action="callPhone" data-tel="13798967970"></text>
+  </view>
+  <view class="clear"></view>
+</view>

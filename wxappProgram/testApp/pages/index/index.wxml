@@ -1,0 +1,41 @@
+<include src="/pages/common/header.wxml"/>
+<!--index.wxml-->
+
+
+<view>
+
+  <block wx:if="{{hasMobile && !hasResult}}">
+    <view class="container" style="padding:0;">
+      <picker class="date" mode="date" value="{{date_cur}}" start="{{date_start}}" end="{{date_end}}" bindchange="bindDateChange">
+        <view class="picker">
+          {{date_cur}}
+          <text class="iconfont icon-icon--"></text>
+        </view>
+      </picker>
+    </view>
+    <view class="container">
+      <text class="gotitle">星座测试</text>
+      <button catchtap="testClick" class="gotest iconfont icon-click"></button>
+    </view>
+  </block>
+
+
+  <block wx:if="{{hasMobile && hasResult}}">
+    <view id="resultDiv" class="container">
+        <text class="rsIcon iconfont {{xlogo}}"></text>
+        
+        <view class="rsZhou">
+          <text class="rsZhou-h">{{xname}}</text>
+          <text class="rsZhou-p">{{xdesc}}</text>
+        </view>
+
+        <text catchtap="retestClick" class="re-test">重新测试</text>
+
+        <text catchtap="bindAction" data-action="goUrl" data-url="/pages/pay/pay" class="godashang iconfont icon-dashang1"></text>
+
+    </view>
+  </block>
+
+</view>
+
+<include src="/pages/common/footer.wxml"/>

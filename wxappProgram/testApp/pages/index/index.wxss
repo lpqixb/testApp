@@ -1,0 +1,70 @@
+/**index.wxss**/
+
+#headDiv{
+  width:100%;
+}
+
+#headDiv{
+
+}
+
+.picker{
+  margin-bottom:20rpx;
+}
+
+.gotitle{
+  margin-bottom:20rpx;
+}
+
+.gotest{
+  width:300rpx;
+  height:300rpx;
+  line-height:300rpx;
+  font-size:270rpx;
+  border:2rpx solid #cef5ff;
+  border-radius:50%;
+  padding:0;
+  color:#fff;
+  background:#00c900;
+}
+
+.godashang{
+  font-size:50rpx;
+}
+
+.re-test{
+  font-size:13px;
+  margin-bottom:5px;
+  display:block;
+  border-bottom:1px solid #333;
+  width:60%;
+  text-align:center;
+  margin-top:20px;
+}
+
+#resultDiv{
+  padding:30px;
+}
+
+#resultDiv .rsIcon{
+  font-size:100rpx;
+}
+
+#resultDiv .rsZhou{
+  /* border:1px solid #333; */
+  margin-top:30px;
+  width:100%;
+  min-height:260px;
+}
+
+#resultDiv .rsZhou-h{
+  font-size:35rpx;
+  font-weight: 700;
+  display:block;
+}
+
+#resultDiv .rsZhou-p{
+  font-size:30rpx;
+  font-weight: 100;
+  display:block;
+}

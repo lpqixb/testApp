@@ -1,0 +1,4 @@
+<view class="header-qm" catchtap="bindAction" data-action="openBlock" data-title="免责说明：" data-info="a.代码仅学习参考使用\nb.输入出身日期后得出测试结果\nc.测试结果仅当娱乐\nd.多多打赏!!!">
+  <text class="iconfont icon-qm"></text>
+</view>
+

@@ -1,0 +1,23 @@
+<template name="showblock">
+  <view style="display:{{isshowblock}};" class="showblock">
+    <view class="showblock-bg"></view>
+    <view class="showblock-view">
+      <view class="showblock-blockView">
+        
+        <view class="showblock-viewClass">
+
+          <view class="showblock-title">{{title}}</view>
+          <view  class="showblock-infoview">
+            <text class="showblock-info">{{info}}</text>
+          </view>
+
+          <view class="showblock-viewClose" catchtap='bindAction' data-action='openBlock'>
+            <text class="iconfont icon-jiaochacross78"></text>
+          </view>
+
+        </view>
+
+      </view>
+    </view>
+  </view>
+</template>

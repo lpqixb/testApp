@@ -1,0 +1,36 @@
+/* pages/bindmobile/bindmobile.wxss */
+#mobileUserinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#mobileUserinfo .userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  line-height:128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+  font-size:130rpx;
+  text-align:center;
+}
+
+#mobileUserinfo .userinfo-nickname {
+  color: #aaa;
+}
+
+#mobileUserinfo .usermotto {
+  margin-top: 300rpx;
+  /* padding:0 100rpx; */
+  width:100%;
+}
+
+#mobileUserinfo .user-motto{
+  border:2rpx solid #cef5ff;
+  color:#fff;
+  background:#00c900;
+  display:block;
+  font-size:30rpx;
+  width:400rpx;
+  display:block;
+}

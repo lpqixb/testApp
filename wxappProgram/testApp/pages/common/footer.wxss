@@ -1,0 +1,31 @@
+.footer-iconfoot{  
+  position: fixed;  
+  bottom:40rpx;
+  left:0rpx;
+  width: 100%; 
+  z-index:100;
+  font-size:20rpx;
+  display: flex;
+  flex-direction:row;
+}
+.footer-iconfoot .menu-item{  
+  width: 100%;
+  box-orient:vertical;
+  text-align: center;  
+  padding-top: 6rpx;
+  padding-bottom: 0; 
+}
+.footer-iconfoot .img{  
+  width: 60rpx;  
+  height: 60rpx;
+  line-height:60rpx;
+  display: block;  
+  font-size:40rpx;
+  margin:auto;
+  border:2rpx solid #333;
+  color:#333;
+  border-radius:50%;
+  background:none;
+  text-align:center;
+  padding:0;
+}

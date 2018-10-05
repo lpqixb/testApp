@@ -1,0 +1,24 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/pay/pay",
+    "pages/bindmobile/bindmobile",
+    "pages/webbox/webbox",
+    "pages/logs/logs"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "壹销科技",
+    "navigationBarTextStyle":"black"
+  }
+  
+  
+}
+
+
+
+
+
+

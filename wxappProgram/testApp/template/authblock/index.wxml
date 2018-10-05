@@ -1,0 +1,13 @@
+<template name="authblock">
+  <view wx:if="{{!hasAuth}}">
+    <view class="authView">
+      <view class="authDiv">
+        <text class="authText iconfont icon-shouquan"></text>
+      </view>
+      <view class="authDiv">
+        <button class="authBtn" open-type="getUserInfo" bindgetuserinfo="getUserInfo" catchtap="bindAction" data-action="getAuth">一键授权</button>
+      </view>
+    </view>
+    <view class="authDiv-bg"></view>
+  </view>
+</template>
