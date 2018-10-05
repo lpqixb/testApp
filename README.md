@@ -1,9 +1,9 @@
 # testApp
 
 ### 技术架构
-> 前端：vue2.0 + vue-router + vuex + axios + Element ui
+> 前端：WXML + WXSS + JS + JSON（小程序相关）
 
-> 后端：nodejs + express + mongoose
+> 后端：PHP + MYSQL
 
 ### <a href="http://h5.limesoftware.cn/">在线演示传送门</a>
 
