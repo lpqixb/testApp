@@ -5,18 +5,10 @@
 
 > 后端：PHP + MYSQL
 
-### <a href="http://h5.limesoftware.cn/">在线演示传送门</a>
+### 演示入口
+打开微信小程序-搜索-壹销君+
 
-### 演示效果
-![](./h5maker.gif)
-
-### 目录结构
-<div>
-<img src="http://test-10019075.cossh.myqcloud.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-05-27%2015.56.53.png" width="200"/>
-<img src="http://test-10019075.cossh.myqcloud.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-05-27%2015.57.18.png" width="200"/>
-</div>
-
-<!--### 应用截图
+### 应用截图
 <div>
 <img src="	http://test-10019075.cossh.myqcloud.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-05-27%2016.00.10.png" width="800"/>
 </div>
@@ -26,9 +18,9 @@
 </div>
 <div>
 <img src="	http://test-10019075.cossh.myqcloud.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-05-27%2016.03.02.png" width="800"/>
-</div>-->
+</div>
 ### 注意！！！
-运行前需要先启动mongodb数据库，请确保本地已安装数据库
+
 
 ### 运行方法
 > aaa
