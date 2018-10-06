@@ -13,7 +13,7 @@
 </div>
 
 ### 业务流程
-流程图&思维导图
+流程图 & 思维导图
 <div>
 <img src="http://www.eesaler.com/test_app/image/gs.png" width="800"/>
 </div>
