@@ -1,9 +1,10 @@
 # testApp
 
 ### 技术架构
+<div>
 > 前端：WXML + WXSS + JS + JSON（小程序相关）
 > 后端：PHP + MYSQL
-
+</div>
 ### 演示入口
 打开微信小程序-搜索-壹销君+
 <br />
@@ -19,8 +20,8 @@
 </div>
 <br />
 ### 应用截图
-<br />
 <div>
+<br />
 <img src="http://www.eesaler.com/test_app/image/mockup.png" width="800"/>
 </div>
 
