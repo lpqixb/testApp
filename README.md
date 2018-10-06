@@ -2,6 +2,7 @@
 
 ### 技术架构
 > 前端：WXML + WXSS + JS + JSON（小程序相关）
+
 > 后端：PHP + MYSQL
 
 
