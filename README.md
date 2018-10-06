@@ -6,9 +6,10 @@
 
 ### 演示入口
 打开微信小程序-搜索-壹销君+
+<br />
 或扫小程序二维码
 <div>
-<img src="http://www.eesaler.com/test_app/image/gh.jpg" width="800"/>
+<img src="http://www.eesaler.com/test_app/image/gh.jpg" width="200"/>
 </div>
 
 ### 业务流程
