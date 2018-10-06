@@ -11,7 +11,7 @@
 
 或扫小程序二维码
 <div>
-<img src="http://www.eesaler.com/test_app/image/gh.jpg" width="200"/>
+<img src="https://github.com/lpqixb/testApp/blob/master/phpProgram/test_app/image/gh.jpg" width="200"/>
 </div>
 
 ### 业务流程
