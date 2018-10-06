@@ -8,18 +8,16 @@
 打开微信小程序-搜索-壹销君+
 或扫小程序二维码
 <div>
-<img src="http://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3840028270&token=1881243322" width="800"/>
+<img src="http://www.eesaler.com/test_app/image/gh.jpg" width="800"/>
 </div>
 
 ### 业务流程
+授权-获取手机号码
 
 ### 应用截图
 <div>
 <img src="http://www.eesaler.com/test_app/image/mockup.png" width="800"/>
 </div>
 
-### 注意！！！
-
-
 ### 运行方法
-> 
+> 更新中
