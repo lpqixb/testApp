@@ -17,8 +17,9 @@
 <div>
 <img src="http://www.eesaler.com/test_app/image/gs.png" width="800"/>
 </div>
-
+<br />
 ### 应用截图
+<br />
 <div>
 <img src="http://www.eesaler.com/test_app/image/mockup.png" width="800"/>
 </div>
