@@ -17,12 +17,12 @@
 ### 业务流程
 流程图 & 思维导图
 <div>
-<img src="http://www.eesaler.com/test_app/image/gs.png" width="800"/>
+<img src="https://github.com/lpqixb/testApp/blob/master/phpProgram/test_app/image/gs.png" width="800"/>
 </div>
 
 ### 应用截图
 <div>
-<img src="http://www.eesaler.com/test_app/image/mockup.png" width="800"/>
+<img src="https://github.com/lpqixb/testApp/blob/master/phpProgram/test_app/image/mockup.png" width="800"/>
 </div>
 
 ### 运行方法
