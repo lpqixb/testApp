@@ -1,5 +1,4 @@
 <?php
-
 function logging($message = '',$title = 'info') {
     $filename = IA_ROOT."/logs/".date('Ymd') . '.log';
     mkdir(dirname($filename),0777,true);
